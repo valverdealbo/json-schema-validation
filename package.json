@@ -1,6 +1,6 @@
 {
   "name": "@valbo/json-schema-validation",
-  "version": "",
+  "version": "1.0.0",
   "description": "Validate JSON schemas with Typescript support",
   "keywords": [
     "json",
