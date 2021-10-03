@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@valbo/http-errors": "^1.0.4",
-    "ajv": "7.x - 8.x",
+    "ajv": "8.6.3",
     "json-schema-to-ts": "^1.6.4"
   },
   "scripts": {
