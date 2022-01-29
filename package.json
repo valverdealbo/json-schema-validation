@@ -46,7 +46,7 @@
   "dependencies": {
     "@valbo/http-errors": "^1.0.4",
     "ajv": "7.x - 8.x",
-    "json-schema-to-ts": "^1.6.4"
+    "json-schema-to-ts": "^1.6.5"
   },
   "scripts": {
     "build": "rimraf ./dist && tsc",
